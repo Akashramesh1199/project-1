@@ -1,2 +1,2 @@
-# project-1
+# PROJECTS
 Swiggy Restaurant Analysis
